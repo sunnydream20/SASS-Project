@@ -1,0 +1,17 @@
+.header {
+    background-color: $color-primary;
+    padding-top: $pa-s;
+    padding-bottom: $pa-xs;
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.logo-img {
+    width: 100px;
+}
